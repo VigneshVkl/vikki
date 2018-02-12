@@ -37,6 +37,8 @@ int main(void)
 	        	temp a[i];
 	        	
 	        }
+		  printf(" the largest number is %d",temp);
+			
 	return 0;
 	  }
 }
